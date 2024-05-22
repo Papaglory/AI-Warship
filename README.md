@@ -27,7 +27,8 @@ Please note that the code in this project is poorly written and lacks sufficient
 ## Dependencies
 Uses the Unity Engine (version 2022.3.29f1) along with the following assets (for more information, please refer to the acknowledgements file):
 * Foam Textures by A Dog's Life Software.
-* Fire Sound from Freesound.org (the audioclip seems to have been taken down).
+* le dancing- music loop by frankum.
+* Fire Sound from Freesound.org (the audioclip seems to no longer be available).
 
 ## Author
 Marius H. Naasen, originally created August 2018.
