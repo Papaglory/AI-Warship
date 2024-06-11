@@ -30,5 +30,9 @@ Uses the Unity Engine (version 2022.3.29f1) along with the following assets (for
 * le dancing- music loop by frankum.
 * Fire Sound from Freesound.org (the audioclip seems to no longer be available).
 
+## Further Information
+
+For a more in-depth look at this project, please refer to [mariusnaasen.com/projects/ai-warship](https://mariusnaasen.com/projects/ai-warship).
+
 ## Author
 Marius H. Naasen, originally created August 2018.
