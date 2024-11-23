@@ -35,4 +35,4 @@ Uses the Unity Engine (version 2022.3.29f1) along with the following assets (for
 For a more in-depth look at this project, please refer to [mariusnaasen.com/projects/ai-warship](https://mariusnaasen.com/projects/ai-warship).
 
 ## Author
-Marius H. Naasen, originally created August 2018.
+Marius H. Naasen, originally created and last updated August 2018.
